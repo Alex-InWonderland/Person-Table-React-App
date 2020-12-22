@@ -1,0 +1,53 @@
+{
+    "person": [
+        {
+            "firstName": "Jane",
+            "lastName": "Appleby",
+            "age": 28,
+            "zodiacSign": "Aquarius",
+            "favCol": "purple",
+            "favFood": [
+                "fruit smoothie",
+                "salad",
+                "broccoli"
+            ]
+        },
+        {
+            "firstName": "Zoe",
+            "lastName": "Greene",
+            "age": 23,
+            "zodiacSign": "Leo",
+            "favCol": "cyan",
+            "favFood": [
+                "cookies",
+                "apple pie",
+                "ice cream",
+                "pizza"
+            ]
+        },
+        {
+            "firstName": "Kyle",
+            "lastName": "Smith",
+            "age": 34,
+            "zodiacSign": "Virgo",
+            "favCol": "royal blue",
+            "favFood": [
+                "lasagna",
+                "chicken casserole",
+                "mac and cheese",
+                "glazed ham"
+            ]
+        },
+        {
+            "firstName": "Liam",
+            "lastName": "Waters",
+            "age": 19,
+            "zodiacSign": "Pisces",
+            "favCol": "olive green",
+            "favFood": [
+                "tacos",
+                "grilled cheese"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+#positioning-div {
+
+  width: 100%;
+  height: 300px;
+  border: 4px solid black;
+  background-color: lightblue;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+table {
+
+  border: 4px solid black;
+
+  width: 90%;
+  height: 200px;
+  margin: auto;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ 
+  font-size: 20px;
+
+}
+
+th {
+
+  height: 80px;
+
+}
+
+th, td {
+  border: 4px solid lightblue;
+}
+
+td {
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+tr:nth-of-type(1) {
+  background-color: black;
+  color: white;
+}
+
+
